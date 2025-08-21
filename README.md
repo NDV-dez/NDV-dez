@@ -1,3 +1,12 @@
+<style>
+        img{
+          display: block; /* Makes the image a block-level element */
+          margin-left: auto; /* Centers the image horizontally by setting equal left and right margins */
+          margin-right: auto;
+  /* Optional: Set a width if the image is not full width */
+          width: 50%; /* Example: Sets image width to 50% of its container */
+        }
+</style>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
