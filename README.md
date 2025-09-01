@@ -3,3 +3,4 @@
 <h3 align="center">Computer science student</h3>
 <h3 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXE3MDN1NXJzeXQ5c2lud2ZjZnlwZzlpeHl0NmNuN3FvNTMxcnhzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/200w.gif"></h3>
 https://docs.google.com/document/d/1mDpw0MKL5iw4DjmZhdo05GA9PZp0fbXatHB4lkcB0qE/edit?usp=drive_web&ouid=107694156041996626723
+https://docs.google.com/document/d/1p3UIJq86shCDYvB5nrDFv_K1Fa0tUQq6bW1uDV3jndQ/edit?tab=t.0
