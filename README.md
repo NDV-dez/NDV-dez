@@ -3,4 +3,4 @@
 <h3 align="center">Computer science student</h3>
 <h3 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXE3MDN1NXJzeXQ5c2lud2ZjZnlwZzlpeHl0NmNuN3FvNTMxcnhzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/200w.gif"></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![NDV-dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndv-dez&show_icons=true&theme=radical)
